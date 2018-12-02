@@ -1,0 +1,43 @@
+
+.list_item{
+	list-style: none;
+	background-color: #e0ffff;
+	padding: 20px;
+	margin: 10px;
+	font-weight: 700;
+	width: 50%;
+}
+
+.myH1 {
+	border: 2px solid black;
+	width: 80%;
+	text-align: center;
+	padding: 20px;
+	display: inline-block;
+	font-size: 15px;
+}
+
+.myH2{
+	margin: 10px;
+}
+
+.myH3 {
+	margin: 10px;
+	text-decoration: underline;
+}
+
+.myP{
+	font-size: 15px;
+	background-color: #ececec;
+	padding: 20px 10px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
